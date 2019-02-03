@@ -17,3 +17,6 @@ A basic real estate dapp
 7. npm install truffle@4.0.3
 
 Don't forget to add your Ganache demo crypto account to metamask for testing.
+
+
+## view ppt for more information regarding project and application
