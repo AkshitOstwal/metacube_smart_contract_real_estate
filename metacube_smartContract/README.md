@@ -1,4 +1,4 @@
-A basic real estate dapp created for edureka blockchain course project
+A basic real estate dapp 
 
 
 **Update 28th Dec 2017:**  
