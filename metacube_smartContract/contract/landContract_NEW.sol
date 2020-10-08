@@ -1,4 +1,4 @@
-
+// smart contract for buyer and seller
 pragma solidity ^0.4.0;
 
 contract MyLandContract
